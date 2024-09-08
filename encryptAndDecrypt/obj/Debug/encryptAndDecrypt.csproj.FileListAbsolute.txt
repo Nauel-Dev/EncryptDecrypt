@@ -1,0 +1,7 @@
+C:\Users\night\source\repos\encryptAndDecrypt\bin\Debug\encryptAndDecrypt.exe.config
+C:\Users\night\source\repos\encryptAndDecrypt\bin\Debug\encryptAndDecrypt.exe
+C:\Users\night\source\repos\encryptAndDecrypt\bin\Debug\encryptAndDecrypt.pdb
+C:\Users\night\source\repos\encryptAndDecrypt\obj\Debug\encryptAndDecrypt.csproj.AssemblyReference.cache
+C:\Users\night\source\repos\encryptAndDecrypt\obj\Debug\encryptAndDecrypt.csproj.CoreCompileInputs.cache
+C:\Users\night\source\repos\encryptAndDecrypt\obj\Debug\encryptAndDecrypt.exe
+C:\Users\night\source\repos\encryptAndDecrypt\obj\Debug\encryptAndDecrypt.pdb
